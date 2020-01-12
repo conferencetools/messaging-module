@@ -1,0 +1,5 @@
+.idea
+vendor
+tools
+composer.phar
+.php_cs.cache
